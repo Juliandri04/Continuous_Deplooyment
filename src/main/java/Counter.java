@@ -33,7 +33,7 @@ public class Counter {
 	}
 	
 	public void triple(){
-		int i = 3;
+		int i = 3 ;
 		multiplyBy(i);
 	}
 
